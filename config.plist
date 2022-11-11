@@ -17,13 +17,13 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>xxx</string>
+          <string>com.enoryxxx.rise</string>
           <key>bundle-version</key>
           <string><![CDATA[1.0.0]]></string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string><![CDATA[xxx]]></string>
+          <string><![CDATA[小黄鸭]]></string>
         </dict>
       </dict>
     </array>
