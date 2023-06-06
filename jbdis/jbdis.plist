@@ -41,7 +41,7 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.enoryjb.rise</string>
+    <string>com.jbdev.rise</string>
     <key>bundle-version</key>
     <!-- 版本号-必变 -->
     <string>1.4.2</string>
