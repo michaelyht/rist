@@ -11,3 +11,8 @@ http://htmlpreview.github.io/?https://github.com/michaelyht/rist/blob/main/jbdis
 <!--xhy 生产 内侧下载-->
 
 http://htmlpreview.github.io/?https://github.com/michaelyht/rist/blob/main/xhydis/xhydis.html
+
+
+<!--liveanchor 内侧下载-->
+
+http://htmlpreview.github.io/?https://github.com/michaelyht/rist/blob/main/liveanchor/liveanchor.html
